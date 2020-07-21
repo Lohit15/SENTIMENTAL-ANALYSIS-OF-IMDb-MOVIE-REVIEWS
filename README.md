@@ -1,0 +1,2 @@
+# SENTIMENTAL-ANALYSIS-OF-IMDb-MOVIE-REVIEWS
+Sentiment analysis is a natural language processing problem where the intent of a movie is predicted using the reviews . Here, a IMDB dataset containing around 25,000 reviews(good /bad)is taken and is trained and tested using different deep learning libraries like tensor flow, keras, matplot lib( for plotting)etc. Here we use multi-layer perceptron model where it consists of 3 layers, Input layer for intialisation of data, hidden layer for computing the data and output layer to produce the results.
